@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Generated artifacts
+models/*.pt
+reports/figures/*.png
+reports/metrics.json
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
